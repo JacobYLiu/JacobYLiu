@@ -1,6 +1,5 @@
 My name is Jacob Liu 
 ==========================================================================================================================================
-![](9dea6422afee150cbe2f65b5317285eb.gif) 
 Software Engineer
 --------------------------
 
@@ -18,3 +17,5 @@ Currently, I am a Software Engineer actively job applying and learning new techn
 <b> GitHub Stats </b>
 
 <a href ="http://www.github.com/JacobYLiu"><img src = "https://github-readme-streak-stats.herokuapp.com?user=JacobYLiu&theme=blueberry&hide_border=true" /> </a>
+
+![](9dea6422afee150cbe2f65b5317285eb.gif) 
