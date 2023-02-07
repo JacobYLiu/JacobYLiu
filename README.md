@@ -6,8 +6,8 @@ Software Engineer <img src="cyndaquil-pokemon.gif" width="45px">
 Currently, I am a Software Engineer actively job applying and learning new technologies during the day. I squeeze time for exercises in the morning and reading time at night. Currently studying Udemy Web Development and Python Course by Angela Yu, but also learning Odin Project and projects on LogRocket's blog on the side! Feel free to contact me for chats and potential job opportunities!
 
 * 🏠 Hayward, California > 🌍 Based in Austin, Texas 
-* 🎓 Graduated University of California, Riverside with Bachelor of Science, Computer Science - December 2021
-* ✉️  You can contact me at [jacobliu75@gmail.com](mailto:jacobliu75@gmail.com)
+* 🎓 Graduated University of California, Riverside with Bachelor of Science, Computer Science | December 2021
+* ✉️  Reach me at [jacobliu75@gmail.com](mailto:jacobliu75@gmail.com)
 * 🧠  I'm learning Javascript and am looking forward to learning React
 * ⚡  I'm open to connecting with engineers and job opportunities!
 
