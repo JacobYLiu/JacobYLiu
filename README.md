@@ -1,6 +1,6 @@
-![](https://github.com/JacobYLiu/9dea6422afee150cbe2f65b5317285eb.gif) My name is Jacob Liu 
+My name is Jacob Liu 
 ==========================================================================================================================================
-
+![](https://github.com/JacobYLiu/9dea6422afee150cbe2f65b5317285eb.gif) 
 Software Engineer
 --------------------------
 
