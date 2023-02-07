@@ -1,4 +1,4 @@
-<img src="cyndaquil-pokemon.gif" width="100px"> My name is Jacob Liu 
+<img src="cyndaquil-pokemon.gif" width="50px"> My name is Jacob Liu 
 ==========================================================================================================================================
 Software Engineer
 --------------------------
