@@ -10,3 +10,10 @@ Currently, I am a Software Engineer but I enjoy building web applications and le
 * ✉️  You can contact me at [jacobliu75@gmail.com](mailto:jacobliu75@gmail.com)
 * 🧠  I'm learning Javascript and am looking forward to learning React
 * ⚡  I'm open to connecting with engineers and job opportunities!
+
+
+### Badges
+
+<b> GitHub Stats </b>
+
+<a href ="http://www.github.com/JacobYLiu"><img src = "https://github-readme-streak-stats.herokuapp.com?user=JacobYLiu&theme=blueberry&hide_border=true" /> </a>
