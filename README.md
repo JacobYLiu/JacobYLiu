@@ -12,7 +12,7 @@ Currently, I am a Software Engineer actively job applying and learning new techn
 * ⚡  I'm open to connecting with engineers and job opportunities!
 
 
-### Badges <img src="cyndaquil-pokemon.gif" width="50px"> 
+### Badges <img src="cyndaquil-pokemon.gif" width="40px"> 
 
 <b> GitHub Stats </b>
 
