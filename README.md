@@ -7,7 +7,7 @@ Currently, I am a Software Engineer actively job applying and learning new techn
 
 * 🏠 Hayward, California > 🌍 Based in Austin, Texas 
 * 🎓 Graduated University of California, Riverside with Bachelor of Science, Computer Science | December 2021
-* ✉️  Reach me at [jacobliu75@gmail.com](mailto:jacobliu75@gmail.com)
+* ✉️  Reach me with [jacobliu75@gmail.com](mailto:jacobliu75@gmail.com)
 * 🧠  I'm learning Javascript and am looking forward to learning React
 * ⚡  I'm open to connecting with engineers and job opportunities!
 
