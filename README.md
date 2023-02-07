@@ -1,4 +1,4 @@
-![](https://blog.lootcrate.com/wp-content/uploads/2020/09/ezgif-6-681ae90dc637.gif)! My name is Jacob Liu 
+![](https://github.com/JacobYLiu/9dea6422afee150cbe2f65b5317285eb.gif) My name is Jacob Liu 
 ==========================================================================================================================================
 
 Software Engineer
