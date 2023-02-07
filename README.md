@@ -1,4 +1,4 @@
-   ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi, my name is Jacob Liu
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi, my name is Jacob Liu
 ==========================================================================================================================================
 Software Engineer <img src="cyndaquil-pokemon.gif" width="50px"> 
 --------------------------
