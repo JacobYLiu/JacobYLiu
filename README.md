@@ -1,6 +1,6 @@
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi, my name is Jacob Liu
 ==========================================================================================================================================
-Software Engineer <img src="cyndaquil-pokemon.gif" width="50px"> 
+Software Engineer <img src="magnamite.gif"> 
 --------------------------
 
 Currently, I am a Software Engineer actively job applying and learning new technologies during the day. I squeeze time for exercises in the morning and reading time at night. Currently studying Udemy Web Development and Python Course by Angela Yu, but also learning Odin Project and projects on LogRocket's blog on the side! Feel free to contact me for chats and potential job opportunities!
@@ -12,7 +12,7 @@ Currently, I am a Software Engineer actively job applying and learning new techn
 * ⚡  I'm open to connecting with engineers and job opportunities!
 
 
-### Badges
+### Badges <img src="cyndaquil-pokemon.gif" width="50px"> 
 
 <b> GitHub Stats </b>
 
