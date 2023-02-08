@@ -3,13 +3,13 @@
 Software Engineer <img src="cyndaquil-pokemon.gif" width="45px"> 
 --------------------------
 
-Currently, I am a Software Engineer actively job applying and learning new technologies during the day. I squeeze time for exercises in the morning and reading at night. Currently studying Udemy Web Development and Python Course by Angela Yu, but also learning Odin Project and projects on LogRocket's blog on the side! Feel free to contact me for chats and potential job opportunities!
+Currently, I am a Software Engineer actively job applying and learning new technologies during the day. Sharpening my skills daily by developing ongoing projects and reviewing online courses. Experienced in using Python, Javascript, Node.js, and SQL for front-end development and data science. Seeking job opportunities as a Front-end web engineer, Mobile engineer, Data Scienist, Data Engineer, or Software Engineer
 
 * 🏠 Bay Area, California > 🌍 Based in Austin, Texas 
 * 🎓 December 2021 - Graduated University of California, Riverside with Bachelor of Science, Computer Science 
-* ✉️  Reach me with [jacobliu75@gmail.com](mailto:jacobliu75@gmail.com)
-* 🧠  I'm learning Javascript and am looking forward to learning React
-* ⚡  I'm open to connecting with engineers and job opportunities!
+* ✉️  Contact me using this email >> [jacobliu75@gmail.com](mailto:jacobliu75@gmail.com)
+* 🧠  I'm learning React and AWS services
+* ⚡  I'm open to connect with engineers and job opportunities!
 
 ### Skills 
 <p align="left">
