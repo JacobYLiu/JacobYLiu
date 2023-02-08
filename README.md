@@ -6,7 +6,7 @@ Software Engineer <img src="cyndaquil-pokemon.gif" width="45px">
 Currently, I am a Software Engineer actively job applying and learning new technologies during the day. Sharpening my skills daily by developing ongoing projects and reviewing online courses. Experienced in using Python, Javascript, React, and SQL for front-end development and data science. Seeking job opportunities as a Front-end Web Engineer, Mobile Engineer, Data Scienist, Data Engineer, or Software Engineer
 
 * 🏠 Bay Area, California > 🌍 Based in Austin, Texas 
-* 🎓 December 2021 - Graduated University of California, Riverside with Bachelor of Science, Computer Science 
+* 🎓 Graduated December 2021 from University of California, Riverside with Bachelor of Science, Computer Science 
 * ✉️  Contact me using this email >> [jacobliu75@gmail.com](mailto:jacobliu75@gmail.com)
 * 🧠  I'm learning React and AWS services
 * ⚡  I'm open to connect with engineers and job opportunities!
