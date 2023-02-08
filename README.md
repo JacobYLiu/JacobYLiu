@@ -3,7 +3,7 @@
 Software Engineer <img src="cyndaquil-pokemon.gif" width="45px"> 
 --------------------------
 
-Currently, I am a Software Engineer actively job applying and learning new technologies during the day. I squeeze time for exercises in the morning and reading time at night. Currently studying Udemy Web Development and Python Course by Angela Yu, but also learning Odin Project and projects on LogRocket's blog on the side! Feel free to contact me for chats and potential job opportunities!
+Currently, I am a Software Engineer actively job applying and learning new technologies during the day. I squeeze time for exercises in the morning and reading at night. Currently studying Udemy Web Development and Python Course by Angela Yu, but also learning Odin Project and projects on LogRocket's blog on the side! Feel free to contact me for chats and potential job opportunities!
 
 * 🏠 Bay Area, California > 🌍 Based in Austin, Texas 
 * 🎓 December 2021 - Graduated University of California, Riverside with Bachelor of Science, Computer Science 
