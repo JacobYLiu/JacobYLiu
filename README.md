@@ -5,10 +5,10 @@ Software Engineer <img src="cyndaquil-pokemon.gif" width="45px">
 
 I am a Software Engineer actively applying for jobs and learning new technologies. I have been focusing on developing ongoing projects and reviewing online courses to sharpen my skills. I'm experienced in using Javascript, React, and React Native for front-end and mobile development. I am seeking job opportunities as a Front-end Web Engineer, Mobile Engineer, or Software Engineer.
 
-* 🏠 Bay Area, California > 🌍 Based in Austin, Texas 
-* 🎓 Bachelor of Science, Computer Science from the University of California, Riverside
+* 🏠 Bay Area, California > 🌍 Based in Austin, Texas (temporarily).
+* 🎓 Bachelor of Science, Computer Science from the University of California, Riverside.
 * ✉️  Contact me using this email >> [jacobliu75@gmail.com](mailto:jacobliu75@gmail.com)
-* 🧠 I'm learning React and AWS services
+* 🧠 I'm practicing React and Python libraries.
 * ⚡  I'm open to connecting with engineers and job opportunities!
 
 ### Skills 
