@@ -3,8 +3,7 @@
 Software Engineer <img src="cyndaquil-pokemon.gif" width="45px"> 
 --------------------------
 
-I am a Software Engineer actively applying for jobs and learning new technologies. I have been focusing on developing ongoing projects and reviewing online courses to sharpen my skills. I'm experienced in using Javascript, React, and React Native for front-end and mobile development. I am seeking job opportunities as a Front-end Web Engineer, Mobile Engineer, or Software Engineer.
-
+I am a software engineer actively applying for jobs and love learning new technologies. I'm attending Georgia Tech for a Master's of Science in Computer Science. I'm experienced using Python and Javascript for backend development. I'm seeking job opportunities as a Backend SWE, Mobile Engineer, or Fullstack SWE. 
 * 🏠 Bay Area, California
 * 🎓 Bachelor of Science, Computer Science from the University of California, Riverside.
 * ✉️  Contact me using this email >> [jacobliu75@gmail.com](mailto:jacobliu75@gmail.com)
